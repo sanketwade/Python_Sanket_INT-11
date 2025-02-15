@@ -1,0 +1,2 @@
+INFO:root:Moved large_size_files to Small folder
+INFO:root:Moved large_files to small_files (small file)
